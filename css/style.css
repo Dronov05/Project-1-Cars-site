@@ -670,6 +670,7 @@ a {
 
 .form__input {
   padding: 18px 20px;
+  margin-bottom: 40px;
   max-width: 270px;
   width: 100%;
   border: 1px solid #0066ff;
@@ -685,7 +686,7 @@ a {
   max-width: 580px;
   width: 100%;
   padding: 28px 20px;
-  margin: 40px 0 50px 0;
+  margin: 0 0 50px 0;
   resize: none;
   height: 290px;
   border: 1px solid #0066ff;
